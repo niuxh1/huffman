@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/clion/faster_huff/cmake-build-debug/CMakeFiles/faster_huff.dir
+C:/Users/ASUS/Desktop/clion/faster_huff/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/clion/faster_huff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
