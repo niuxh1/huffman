@@ -1,1 +1,3 @@
 # huffman
+
+一个简单的huffman实现，你可以修改main中的file_name实现修改文件地址，其中data_src是资源文件,data_freq是频率统计文件，data_decode是编码后输出文件，data_encode是01压缩文件，hfm_tree是树资源文件，print_hfm更直观的展示了树结构
