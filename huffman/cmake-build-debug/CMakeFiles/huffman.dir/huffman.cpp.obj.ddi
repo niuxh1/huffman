@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\huffman.dir\\huffman.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ASUS\\Desktop\\clion\\huffman\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\huffman.dir\\huffman.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

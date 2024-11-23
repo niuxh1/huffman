@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\huffman.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\huffman.dir\huffman.cpp.obj: dyndep
+
